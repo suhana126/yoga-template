@@ -1,0 +1,296 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+body{
+	margin: 0px;
+	font-family: sans-serif;
+}
+/*start here.....*/
+.header{
+	background: url(./img126/H.jpg);
+	background-position: center;
+	background-size: cover;
+	width:100%;
+	height:600px;
+}
+.header img{
+	position: absolute;
+	margin-left: 616px;
+}
+.ptext h1{
+	font-size: 45px;
+	color: white;
+	text-align: center;
+	margin-top: 400px;
+	position: absolute;
+	margin-left: 650px;
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 0px;
+	}
+	.ptext p{
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	margin-top: 400px;
+	position: absolute;
+	margin-left: 630px;
+	padding-top: 60px;
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 0px;
+
+	}
+	.plist ul{
+		position: absolute;
+		font-size: 15px;
+		color: #FFFFFF;
+        list-style-type: none;
+        display: flex;
+       margin-top: 530px;
+       position: absolute;
+        margin-left: 500px;
+
+	}
+	.plist li a{
+        position: relative;
+		padding: 10px 20px;
+		margin: 20px;
+        text-decoration: none;
+         color: white;
+         font-family: 'Montserrat', sans-serif;
+          transition: 2s;
+         }
+         .plist a:hover{
+         background-color:pink;
+         
+         }
+     .second{
+     	width: 100%;
+     	height: auto;
+     	
+     }
+     #headtext h1{
+     	font-size: 20px;
+     	color:black;
+     	text-align: center;
+       font-family: 'Montserrat', sans-serif;
+       padding-top: 700px;
+	}
+	.img{
+	display: flex;
+    width: 820px;
+    color: #524767;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.img i, h5,p{
+	text-align: center;
+}
+.img h5, p {
+    padding: 20px;
+
+     font-family: 'Montserrat', sans-serif;
+}
+.img h5{
+   font-weight: 600;
+}
+.second {
+    height: auto;
+ }
+.imgth{
+	background: url(./img126/nature.jpg);
+	margin-top: 30px;
+	margin-bottom: 100px
+	padding-top:100px;
+	padding-bottom: 100px;
+	background-size:cover;
+	background-position: center;
+}
+
+.imgth{
+	width: 100%;
+    height: 26%;
+    margin-top: -80px;
+	
+
+}
+.imgth h1{
+	text-align: right;
+	font-size: 30px;
+	color: white;
+	margin-left:700px;
+	margin-right: 218px;
+}
+.imgth p {
+    text-align: left;
+    font-size: 15px;
+    color: white;
+    font-family: verdana,sans-serif;
+    margin-left: 790px;
+    padding-left: 80px;
+    width: 393px;
+}
+.imgth button {
+    float: right;
+    font-size: 15px;
+    background-color: #00ff;
+    color: pink;
+    margin-left: 748px;
+    margin-right: 379px;
+    margin-top: -14px;
+
+}
+.mgth{
+	
+	background-size: center;
+	width: 20px;
+	height: 30px;
+	margin-top: 100px;
+
+}
+ .hthird img {
+    width: 10%;
+    margin-top: 334px;
+}
+.third h1{
+    text-align: center;
+    height: 189px;
+    margin-top: 362px;
+}
+.mgcenter img{
+    width: 50%;
+    float: left;
+    margin-top: 72px;
+    height: 257px;
+    background-position: center;
+}
+
+.mgcol h2{
+    font-size: 15px;
+    color: black;
+    font-family: verdana,sans-serif;
+    float: left;
+    margin-top: 79px;
+    margin-left:352px;
+
+}
+.mgcolumn p{
+
+   font-size: 15px;
+    color: black;
+    font-family: verdana,sans-serif;
+    float: left;
+    width: 222px;
+    margin-top: -11px;
+    margin-left: 273px;
+}
+
+.imggallery img{
+    width: 243px;
+    background-size: center;
+    margin-top:300px;
+    margin-right: 500px;
+    padding-left: 100px;
+    float: left;
+}
+
+.imgg img{
+
+    width: 243px;
+    background-size: center;
+    margin-top:-170px;
+    margin-right: 500px;
+    margin-left: 434px;
+    padding-right: 400px;
+    height: 173px;
+    float: left;
+
+}
+
+.imgcolp img{
+
+    width: 243px;
+    background-size: center;
+    margin-top:-175px;
+    margin-right: 324px;
+    margin-left: 350px;
+    height: 173px;
+    float: right;
+
+}
+.imgcolq img{
+
+     width:162px;
+    background-size: center;
+    margin-top:-175px;
+    margin-right: 83px;
+    margin-left: 350px;
+    height: 173px;
+    float: right;
+}
+.hbotom{
+    background-color:#74a9d7;
+    width: 100%;
+    height: 318px;
+    margin-top: 1154px;
+    padding-bottom: 50px;
+}
+
+.footer{
+    position: absolute;
+    color: black;
+    font-family: verdana, sans-serif;
+    margin-left: 320px;
+    margin-top: 1105px;
+    font-size:20px;
+}
+.footer h5{
+    margin-top: -1074px;
+    float: left;
+    margin-left: 85px;
+}
+.footer p{
+    margin-top: -1118px;
+    float:left;
+    margin-left: 60px;
+}
+.botoms{
+    text-align: center;
+     font-family: 'Montserrat', sans-serif;
+      margin-top: -347px;
+      margin-left: 387px;
+      color: white;
+
+}
+
+.botoms button{
+    background-color:pink;
+}
+
+.social{
+     position: absolute;
+    margin-left: 945px;
+    margin-top: -191px;
+    color: white;
+}
+.social h5{
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 55px;
+
+}
+
+.social a, i{
+    color: white;
+    font-size: 25px;
+    margin-left: 30px;
+    width: 10px;
+}
+
+
+
+
+
+
+
+ 
+
